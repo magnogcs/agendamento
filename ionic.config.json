@@ -1,0 +1,8 @@
+{
+  "name": "agendamento",
+  "app_id": "b3a5c86c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
