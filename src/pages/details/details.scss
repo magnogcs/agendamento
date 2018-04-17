@@ -1,0 +1,18 @@
+page-details {
+.font-details{
+    color: #8D8989;
+}
+.button-details{
+    width: 100%;
+    background-color: transparent;
+    border:#EBC239 1px solid;
+    color: #000;
+    height: 50px;
+    -webkit-box-shadow: none;
+}
+.button-md:hover:not(.disable-hover) {
+    background-color: #fff;
+    -webkit-box-shadow: none;
+    opacity: 0.5;
+}
+}

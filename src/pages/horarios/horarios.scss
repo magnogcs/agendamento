@@ -1,11 +1,4 @@
-page-home {
-.font-index{
-    font-size: 20px;
-}
-.swiper-pagination-bullet-active {
-    background: #EBC239;
-    opacity: 1;
-}
+page-horarios {
 .border{
     border-bottom: 1px solid #EBC239
 }
@@ -20,5 +13,10 @@ page-home {
     color: #000;
     height: 50px;
     -webkit-box-shadow: none;
+}
+.button-md:hover:not(.disable-hover) {
+    background-color: #fff;
+    -webkit-box-shadow: none;
+    opacity: 0.5;
 }
 }
